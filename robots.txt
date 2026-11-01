@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sstechengineer.vercel.app/sitemap.xml
+
